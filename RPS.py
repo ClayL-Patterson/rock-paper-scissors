@@ -1,5 +1,6 @@
 import random
 
+#Global Vars
 game_over = 3
 player_wins = 0
 computer_wins = 0
